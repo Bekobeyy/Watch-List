@@ -13,7 +13,7 @@ change every html file's body css with:
             font-family: Arial, sans-serif;
             text-align: center;
             /* background-color: dimgray; */
-            background-image: url("cool-wallpapers-icegif-1.gif");
+            background-image: URL(" image URL or file name with extension (jpg,gif...) ");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
