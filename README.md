@@ -1,5 +1,5 @@
 - YOU HAVE TO INSTALL [NODEJS](https://nodejs.org/en) APLICATION  <br/>
-EXTRACT THE ZİP FİLE  <br/>
+- EXTRACT THE ZİP FİLE  <br/>
 İN THE FİRST FOLDER THERE İS "Start" FİLE  <br/>
 RUN THİS FİLE AND ENJOY   <br/>
 
