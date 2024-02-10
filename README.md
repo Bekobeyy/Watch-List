@@ -1,3 +1,4 @@
+! versions comparisons at the end !
 - YOU HAVE TO INSTALL [NODEJS](https://nodejs.org/en) APLICATION  <br/>
 - EXTRACT THE ZİP FİLE  <br/>
 İN THE FİRST FOLDER THERE İS "Start" FİLE  <br/>
@@ -20,6 +21,11 @@ change every html file's body css with:
             background-position: center;
             height: 100vh; /* Let the background be as tall as the screen */
         }
+
+![image](https://github.com/Bekobeyy/Watch-List/assets/123945363/0345c843-6485-4e26-be99-ba89ba1cb4a7)
+from v1.3:
+![image](https://github.com/Bekobeyy/Watch-List/assets/123945363/8eeb24a5-47d8-413c-bbd7-2bbcbfb7633f)
+
 
 - version 1.0 
   - starting point
