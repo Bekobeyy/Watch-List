@@ -20,3 +20,19 @@ change every html file's body css with:
             background-position: center;
             height: 100vh; /* Let the background be as tall as the screen */
         }
+
+- version 1.0 
+  - starting point
+- version 1.1
+  - added some pages and background colour. and also some improvements
+  - if you have older versions you can update just html files
+- version 1.2
+  - Added some features 
+    -  alphabetical sorting
+    -  movie/series adjustment per line
+  - Fixed some bugs
+  - if you have older versions you can update only html files
+- version 1.3
+  - Added some features
+    - Added moving TV series/movies between pages
+  - You can change only html files
